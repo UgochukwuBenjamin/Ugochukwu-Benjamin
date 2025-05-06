@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ugochukwu Benjamin</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ugochukwu-benjamin&label=Profile%20views&color=0e75b6&style=flat](https://github.com/UgochukwuBenjamin/Ugochukwu-Benjamin/blob/main/linkedin.png)" alt="ugochukwu-benjamin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ugochukwu-benjamin&label=Profile%20views&color=0e75b6&style=flat" alt="ugochukwu-benjamin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ugochukwu-benjamin" alt="ugochukwu-benjamin" /></a> </p>
 
