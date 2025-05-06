@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ugochukwu Benjamin</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [Humble wears](humblewears.netlify.app)
+- 🔭 I’m currently working on [Humble wears](https://humblewears.netlify.app/)
 
 - 🌱 I’m currently learning **Frameworks**
 
