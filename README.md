@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ugochukwu Benjamin</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-https://github.com/UgochukwuBenjamin/Ugochukwu-Benjamin/blob/main/linkedin.png
+<img src" https://github.com/UgochukwuBenjamin/Ugochukwu-Benjamin/blob/main/linkedin.png">
 
 - 🔭 I’m currently working on [Humble wears](https://humblewears.netlify.app/)
 
